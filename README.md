@@ -16,7 +16,7 @@
   </tr>
 </table>
 
-### I'm Atiqah Pramudya!
+### I'm Atiqah Zahra Pramudya!
 
 Computer Science Student • Passionate in Data & AI
 <br/>

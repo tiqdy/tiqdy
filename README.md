@@ -30,7 +30,7 @@ Computer Science Student • Passionate in Data & AI
 <a href="https://instagram.com/atiqahpramudya">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="www.linkedin.com/in/atiqah-zahra-pramudya-442a61325">
+<a href="https://www.linkedin.com/in/atiqah-zahra-pramudya-442a61325">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:atiqahpramudya@gmail.com">

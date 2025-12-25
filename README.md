@@ -1,20 +1,21 @@
 <div align="center">
+  
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=tiqdy&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXh0Y3VobjEyMnozMDdyZHZkejkyZjB3dTZqenMwdm8wanN1Z2JnbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0luWy8p6oKImZt41tz/giphy.gif" width="80" />
-    </td>
-    <td align="center">
-      <a href="https://github.com/tiqdy">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00599C&center=true&vCenter=true&width=435&lines=Hi%2C+nice+to+see+you!;Hai%2C+senang+bertemu+denganmu!;%C2%A1Hola%2C+encantado+de+verte!;Ol%C3%A1%2C+prazer+em+v%C3%A9-lo!;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E4%BD%A0%EF%BC%81;%E2%8D%99%E2%9F%92%E2%8C%B0%E2%98%8A%E2%8B%94%E2%9F%92+%E2%8A%AC%E2%8D%9C%E2%90%8D+%E2%8A%91%E2%90%8D%E2%8B%8F%E2%8F%83%E2%8B%8F!" alt="Typing SVG" />
-      </a>
-    </td>
-    <td align="center" width="100">
-       <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3OXh0Y3VobjEyMnozMDdyZHZkejkyZjB3dTZqenMwdm8wanN1Z2JnbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/0luWy8p6oKImZt41tz/giphy.gif" width="80" style="transform: scaleX(-1);" />
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00599C&center=true&vCenter=true&width=650&lines=Hi%2C+nice+to+see+you!;Hai%2C+senang+bertemu+denganmu!;%C2%A1Hola%2C+encantado+de+verte!;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E4%BD%A0%EF%BC%81;Bonjour%2C+ravi+de+te+voir!"
+      alt="Typing SVG"
+    />
+  </a>
+</div>
 
 ### I'm Atiqah Zahra Pramudya!
 
@@ -38,9 +39,16 @@ Computer Science Student • Passionate in Data & AI
 </a>
 
 <br/>
-<br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHA2ZXJvcWh6aXV3YzNjaXdzaDR6eGU4aXByNmxjcmx6eGgybGJoNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" width="80" />
+<h3 align="center" style="display:flex; align-items:center; justify-content:center; gap:10px;">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3amZzMHViZDcyajhwNThxamFoaWNzZms2cHczMGZkZTd4cDk2N2FuZSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/0luWy8p6oKImZt41tz/giphy.gif"
+    width="32"
+    alt="Language GIF"
+  />
+  <span><b>Spoken Languages</b></span>
+</h3>
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg/2560px-Flag_of_the_United_Kingdom_%281-2%29.svg.png" height="28" style="vertical-align:top; border-radius:3px;" />
   <img src="https://img.shields.io/badge/English-00599C?style=for-the-badge" />

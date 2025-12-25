@@ -1,13 +1,5 @@
 <div align="center">
   
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=tiqdy&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-</p>
-
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -22,7 +14,6 @@
 Computer Science Student • Passionate in Data & AI
 <br/>
 📍 **Indonesia**
-
 <br/>
 
 <a href="https://github.com/tiqdy">
@@ -37,8 +28,15 @@ Computer Science Student • Passionate in Data & AI
 <a href="mailto:atiqahpramudya@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+<br/>
 
 <br/>
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=tiqdy&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
 
 <h3 align="center" style="display:flex; align-items:center; justify-content:center; gap:10px;">
   <img 

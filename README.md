@@ -68,7 +68,7 @@ Computer Science Student • Passionate in Data & AI
     <td width="70%">
       <ul>
         <li>🔭 I’m currently working on <b>University projects and exploring new ideas and interests along the way.</b></li>
-        <li>🌱 I’m currently developing my skills in <b>Data Science and Artificial Intelligence</b>, with a strong interest in both fields.</b></li>
+        <li>🌱 I’m currently developing my skills in <b>Data Engineering and AI Engineering</b>, with a strong interest in both fields.</b></li>
         <li>💡 I love <b>breaking down complex problems</b> into simple solutions.</li>
         <li>⚡ Fun fact: <b>I survive almost entirely on curiosity.</b></li>
       </ul>

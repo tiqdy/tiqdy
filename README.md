@@ -60,28 +60,6 @@ Computer Science Student • Passionate in Data & AI
 ---
 
 <h3>
-  👩‍💻 About Me
-</h3>
-
-<table>
-  <tr>
-    <td width="70%">
-      <ul>
-        <li>🔭 I’m currently working on <b>University projects and exploring new ideas and interests along the way.</b></li>
-        <li>🌱 I’m currently developing my skills in <b>Data Engineering and AI Engineering</b>, with a strong interest in both fields.</b></li>
-        <li>💡 I love <b>breaking down complex problems</b> into simple solutions.</li>
-        <li>⚡ Fun fact: <b>I survive almost entirely on curiosity.</b></li>
-      </ul>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2syM21zcGRrOGJua3pjeDh1YXU3d3B0anVteG9tM2ltdnVra2I3MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="100%" />
-    </td>
-  </tr>
-</table>
-
----
-
-<h3>
   🛠️ Languages & Tools
 </h3>
 

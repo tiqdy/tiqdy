@@ -11,7 +11,7 @@
 
 ### I'm Atiqah Zahra Pramudya!
 
-Computer Science Student • Passionate in Data & AI
+Computer Science Student
 <br/>
 📍 **Indonesia**
 <br/>
